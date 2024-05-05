@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#Y#",
+        "O#O",
+        "W#W"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:green_wool"
+        },
+        "Y": {
+            "item": "minecraft:yellow_wool"
+        },
+        "O": {
+            "item": "minecraft:orange_wool"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:meiling_item",
+        "count": 1
+    }
+}

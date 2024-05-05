@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "BWB",
+        "YBY"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_blue_wool"
+        },
+        "B": {
+            "item": "minecraft:blue_wool"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        },
+        "Y": {
+            "item": "minecraft:black_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:cirno_item",
+        "count": 1
+    }
+}

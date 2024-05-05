@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#Y#",
+        "RWR",
+        "#R#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_wool"
+        },
+        "Y": {
+            "item": "minecraft:yellow_wool"
+        },
+        "R": {
+            "item": "minecraft:red_wool"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:new_reimu_item",
+        "count": 1
+    }
+}

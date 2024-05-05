@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#R#",
+        "RYR",
+        "R#R"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+        "R": {
+            "item": "minecraft:red_wool"
+        },
+        "Y": {
+            "item": "minecraft:yellow_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:flandre_item",
+        "count": 1
+    }
+}

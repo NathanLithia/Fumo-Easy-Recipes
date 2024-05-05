@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "LLL",
+        "#G#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:black_wool"
+        },
+        "L": {
+            "item": "minecraft:light_blue_wool"
+        },
+        "G": {
+            "item": "minecraft:green_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:koishi_item",
+        "count": 1
+    }
+}

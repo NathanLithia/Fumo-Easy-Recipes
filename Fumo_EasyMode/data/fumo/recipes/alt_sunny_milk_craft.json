@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "###",
+        "LYL",
+        "BWB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:orange_wool"
+        },
+        "L": {
+            "item": "minecraft:light_blue_wool"
+        },
+        "Y": {
+            "item": "minecraft:yellow_wool"
+        },
+        "B": {
+            "item": "minecraft:black_wool"
+        },
+        "W": {
+            "item": "minecraft:white_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:sunny_milk_item",
+        "count": 1
+    }
+}

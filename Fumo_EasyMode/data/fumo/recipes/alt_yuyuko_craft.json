@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+        "#P#",
+        "PLP",
+        "BLB"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_wool"
+        },
+        "P": {
+            "item": "minecraft:pink_wool"
+        },
+        "L": {
+            "item": "minecraft:light_blue_wool"
+        },
+        "B": {
+            "item": "minecraft:black_wool"
+        }
+    },
+    "result": {
+        "item": "fumo:yuyuko_item",
+        "count": 1
+    }
+}
